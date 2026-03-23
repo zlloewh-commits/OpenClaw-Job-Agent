@@ -1,5 +1,7 @@
 # OpenClaw Job Agent
 
+This repository contains an anonymized version of my job application materials.
+
 一个基于 OpenClaw 的 AI-native 求职投递 Agent，实现从简历生成到投递的自动化流程。
 
 ---
